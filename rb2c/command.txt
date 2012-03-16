@@ -1,0 +1,2 @@
+TURUNGA:rb2c Saranyan$ gcc -fPIC -c mylibrary.c
+TURUNGA:rb2c Saranyan$ gcc -shared -o mylibrary.so mylibrary.o
